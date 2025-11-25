@@ -2,6 +2,8 @@
 
 Batch image generation and editing using Google Gemini.
 
+![demo](https://github.com/user-attachments/assets/21e9957e-0b0f-4446-a0d6-75375bbe6206)
+
 ## Installation
 
 ```bash
@@ -36,6 +38,7 @@ bananabatch edit -i edits.csv -d ./images/
 # Single image with multiple edits (e.g., defect generation)
 bananabatch edit -i defects.csv --default-image product.jpg -t "Add a {{ defect }} at {{ location }}"
 ```
+<img width="787" height="403" alt="Gemini_Generated_Image_8wmv78wmv78wmv78" src="https://github.com/user-attachments/assets/1ba6c799-3fda-4a32-9f09-aeaf6dea37e2" />
 
 ### GUI
 

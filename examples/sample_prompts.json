@@ -1,0 +1,23 @@
+[
+  {
+    "id": "product_001",
+    "prompt": "A professional product photo of wireless headphones on a minimalist white background with soft studio lighting"
+  },
+  {
+    "id": "product_002",
+    "prompt": "A sleek smartwatch displayed on a marble surface with elegant shadows",
+    "model": "gemini-3-pro-image-preview"
+  },
+  {
+    "id": "product_003",
+    "prompt": "A premium leather wallet photographed from above on dark wood texture"
+  },
+  {
+    "id": "product_004",
+    "prompt": "Modern sunglasses with reflections showing a beach sunset scene"
+  },
+  {
+    "id": "product_005",
+    "prompt": "A ceramic coffee mug with steam rising, cozy lifestyle photography style"
+  }
+]

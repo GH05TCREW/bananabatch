@@ -1,0 +1,7 @@
+base_image,edit_prompt,edit_type,strength
+product_001.jpg,Add a subtle reflection on the surface,transform,0.6
+product_002.jpg,Apply a warm vintage color grading,style_transfer,0.7
+product_003.jpg,Add dramatic studio lighting from the left,transform,0.8
+product_001.jpg,Convert to a pencil sketch style,style_transfer,0.9
+product_002.jpg,Add depth of field blur to the background,transform,0.5
+product_003.jpg,Apply a cyberpunk neon glow effect,style_transfer,0.75

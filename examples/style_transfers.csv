@@ -1,0 +1,9 @@
+base_image,style,intensity,edit_type,strength
+portrait_001.jpg,oil painting,medium,style_transfer,0.7
+portrait_001.jpg,watercolor,soft,style_transfer,0.6
+portrait_001.jpg,anime,bold,style_transfer,0.85
+landscape_001.jpg,impressionist,heavy,style_transfer,0.8
+landscape_001.jpg,pixel art,complete,style_transfer,0.95
+landscape_001.jpg,vintage photograph,subtle,style_transfer,0.5
+product_shot.jpg,minimalist,clean,style_transfer,0.6
+product_shot.jpg,pop art,vibrant,style_transfer,0.75
